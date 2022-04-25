@@ -12,7 +12,6 @@ import addRecipeView from './views/addRecipeView';
 import { MODAL_CLOSE_SEC } from './config';
 
 
-console.log('ciao');
 ////////////////////////////////////////////////////////////////////////////////////////////
 //prettier-ignore
 const controlRecipes = async function () {//function to controll recipe render
@@ -160,3 +159,6 @@ const init = function () {
 
 //initialize the SUBSCRIBER
 init();
+
+
+console.log('ciaoo');
