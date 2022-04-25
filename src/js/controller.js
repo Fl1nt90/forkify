@@ -11,6 +11,8 @@ import bookmarksView from './views/bookmarksView';
 import addRecipeView from './views/addRecipeView';
 import { MODAL_CLOSE_SEC } from './config';
 
+
+console.log('ciao');
 ////////////////////////////////////////////////////////////////////////////////////////////
 //prettier-ignore
 const controlRecipes = async function () {//function to controll recipe render
